@@ -1,7 +1,7 @@
 # Games-
 The project contains 8 different games . you could have a try and play 😊
 
-### Games🎮🕹️:
+# Games🎮🕹️:
 1.Pyramid Tic Tac Toe
 
 2.Connect Four
@@ -19,8 +19,14 @@ The project contains 8 different games . you could have a try and play 😊
 8.Tic Tac Toe (9x9)
 
 
-### Authors⚡ :
+# Authors⚡ :
 
-##### Fatema El-Zhraa Ahmed Elfiky
+#####  Fatema El-Zhraa Ahmed Elfiky
 ##### Aly El-Deen Yasser Ali
 ##### Alaa Tarek Mohammed  
+
+
+### The UML Diagram
+![image](https://github.com/user-attachments/assets/4cc7cd0b-31a7-46c1-a6d0-47a1e598f0a3)
+
+
