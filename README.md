@@ -2,7 +2,7 @@
 The project contains 8 different games . you could have a try and play 😊
 
 ### Games🎮🕹️:
-1. Pyramid Tic Tac Toe
+1.Pyramid Tic Tac Toe
 
 2.Connect Four
 
