@@ -26,7 +26,9 @@ The project contains 8 different games . you could have a try and play 😊
 ##### Alaa Tarek Mohammed  
 
 
-### The UML Diagram
+# The UML Diagram 
 ![image](https://github.com/user-attachments/assets/4cc7cd0b-31a7-46c1-a6d0-47a1e598f0a3)
+
+#### the link of the diagram is also here : https://miro.com/app/board/uXjVLAIBQSI=/?share_link_id=394316019525
 
 
