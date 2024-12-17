@@ -19,7 +19,7 @@ The project contains 8 different games . you could have a try and play 😊
 8.Tic Tac Toe (9x9)
 
 
-### Contributers⚡ :
+### Authors⚡ :
 
 ##### Fatema El-Zhraa Ahmed Elfiky
 ##### Aly El-Deen Yasser Ali
